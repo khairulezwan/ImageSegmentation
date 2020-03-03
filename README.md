@@ -1,1 +1,1 @@
-# Image Segmentation for wound Database - Using Keras segmentation library
+# Image Segmentation for wound Database - Implementation using Keras segmentation Library using Mobilenet, UNET
