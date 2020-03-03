@@ -43,4 +43,3 @@ class_wise_IU: array([0.912, 0.709])  |  class_wise_IU: array([0.913, 0.699])
 * https://github.com/mdbloice/Augmentor
 * https://github.com/aleju/imgaug
 * http://www.medetec.co.uk/files/medetec-image-databases.html
-* Hospital Sungai Buloh
