@@ -9,7 +9,7 @@ Link to Keras segmentation library = https://github.com/divamgupta/image-segment
 Wound dataset = 200
 Illumination dataset = 200
 
-The dataset were augmented using <a src="https://github.com/mdbloice/Augmentor">Augmentor library</a> and resize it to 224 x 224.
+The dataset were augmented using <a href="https://github.com/mdbloice/Augmentor">Augmentor library</a> and resize it to 224 x 224.
 
 Example of the Dataset :
 
