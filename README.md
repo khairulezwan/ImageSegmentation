@@ -6,16 +6,20 @@ Link to Keras segmentation library = https://github.com/divamgupta/image-segment
 
 # Image segmentation will be done on Control dataset and Illumination variant Dataset
 
-Wound dataset = 200
-Illumination dataset = 200
+Control wound dataset = 200
+Illumination wound dataset = 200
 
-The dataset were augmented using <a href="https://github.com/mdbloice/Augmentor">Augmentor library</a> and <a href="https://github.com/aleju/imgaug">Imgaug library</a>.
+The dataset were augmented using <a href="https://github.com/mdbloice/Augmentor">Augmentor library</a> and <a href="https://github.com/aleju/imgaug">Imgaug library</a> for illumination and other augment.
 
-The input image size = 224x224
+The input image size were set to = 224x224
 
 Example of the Dataset :
 
-Input Image            |  Output Segmentation Image
+Controlled Image            |  Illumination Image
 :-------------------------:|:-------------------------:
-![]()  |  ![](output_segmentation/prediction1.png)
-![](sample_images/3_input.jpg)  |  ![](sample_images/3_output.png)
+![](Comparison/compare2.png)  |  ![](Comparison/compare2_1.png)
+![](Comparison/compare3.png)  |  ![](Comparison/compare3_1.png)
+![](Comparison/compare4.png)  |  ![](Comparison/compare4_1.png)
+![](Comparison/compare5.png)  |  ![](Comparison/compare5_1.png)
+![](Comparison/compare6.png)  |  ![](Comparison/compare6_1.png)
+![](Comparison/compare7.png)  |  ![](Comparison/compare7_1.png)
