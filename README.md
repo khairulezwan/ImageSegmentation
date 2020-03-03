@@ -28,3 +28,13 @@ Controlled             |  Illumination
 :-------------------------:|:-------------------------:
 ![](output_segmentation/prediction3.png)  |  ![](output_segmentation/illumination_pred3.png)
 ![](output_segmentation/prediction4.png)  |  ![](output_segmentation/illumination_pred4.png)
+
+
+
+{
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "{'frequency_weighted_IU': 0.8629955336992379, 'mean_IU': 0.8062798498232076, 'class_wise_IU': array([0.91317513, 0.69938457])}\n"
+     ]
+    }
