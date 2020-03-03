@@ -6,7 +6,12 @@ Link to Keras segmentation library = https://github.com/divamgupta/image-segment
 
 # Image segmentation will be done on Control dataset and Illumination variant Dataset
 
-Example Controlled Dataset :
+Wound dataset = 200
+Illumination dataset = 200
+
+The dataset were augmented using <a src="https://github.com/mdbloice/Augmentor">Augmentor library</a> and resize it to 224 x 224.
+
+Example of the Dataset :
 
 Input Image            |  Output Segmentation Image
 :-------------------------:|:-------------------------:
