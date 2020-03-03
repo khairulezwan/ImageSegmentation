@@ -37,3 +37,10 @@ Controlled             |  Illumination
 frequency_weighted_IU: 0.865  |  frequency_weighted_IU: 0.862
 mean_IU: 0.811  |  mean_IU: 0.806
 class_wise_IU: array([0.912, 0.709])  |  class_wise_IU: array([0.913, 0.699])
+
+# Reference
+* https://github.com/divamgupta/image-segmentation-keras
+* https://github.com/mdbloice/Augmentor
+* https://github.com/aleju/imgaug
+* http://www.medetec.co.uk/files/medetec-image-databases.html
+* Hospital Sungai Buloh
