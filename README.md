@@ -34,6 +34,6 @@ Controlled             |  Illumination
 
 Controlled             |  Illumination 
 :-------------------------:|:-------------------------:
-frequency_weighted_IU: 0.8650224181588037  |  frequency_weighted_IU: 0.8629955336992379
-mean_IU: 0.8111522538175966  |  mean_IU: 0.8062798498232076
-class_wise_IU: array([0.91268442, 0.70962009])  |  class_wise_IU: array([0.91317513, 0.69938457])
+frequency_weighted_IU: 0.865  |  frequency_weighted_IU: 0.862
+mean_IU: 0.811  |  mean_IU: 0.806
+class_wise_IU: array([0.912, 0.709])  |  class_wise_IU: array([0.913, 0.699])
