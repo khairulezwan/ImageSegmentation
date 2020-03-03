@@ -21,5 +21,12 @@ Controlled Image            |  Illumination Image
 ![](Comparison/compare3.png)  |  ![](Comparison/compare3_1.png)
 ![](Comparison/compare4.png)  |  ![](Comparison/compare4_1.png)
 ![](Comparison/compare5.png)  |  ![](Comparison/compare5_1.png)
-![](Comparison/compare6.png)  |  ![](Comparison/compare6_1.png)
-![](Comparison/compare7.png)  |  ![](Comparison/compare7_1.png)
+
+Example of Output segmentation :
+
+Controlled             |  Illumination 
+:-------------------------:|:-------------------------:
+![](output_segmentation/prediction1.png)  |  ![](output_segmentation/illumination_pred1.png)
+![](output_segmentation/prediction2.png)  |  ![](output_segmentation/illumination_pred2.png)
+![](output_segmentation/prediction3.png)  |  ![](output_segmentation/illumination_pred3.png)
+![](output_segmentation/prediction4.png)  |  ![](output_segmentation/illumination_pred4.png)
