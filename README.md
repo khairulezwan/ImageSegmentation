@@ -4,7 +4,7 @@ Implementation of image segmentation using Keras segmentation library
 
 Link to Keras segmentation library = https://github.com/divamgupta/image-segmentation-keras
 
-# Image segmentation will be done on Control dataset and Illumination variant Dataset
+# Controlled Dataset and Illumination invariant Dataset
 
 Control wound dataset = 200
 Illumination wound dataset = 200
