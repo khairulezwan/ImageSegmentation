@@ -27,7 +27,7 @@ Example of Output segmentation :
 Controlled             |  Illumination 
 :-------------------------:|:-------------------------:
 ![](output_segmentation/prediction3.png)  |  ![](output_segmentation/illumination_pred3.png)
-![](output_segmentation/prediction2.png)  |  ![](output_segmentation/illumination_pred2.png)
+![](output_segmentation/prediction1.png)  |  ![](output_segmentation/illumination_pred1.png)
 
 
 # Result on the image segmentation based on IoU
